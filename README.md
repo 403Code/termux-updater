@@ -11,22 +11,22 @@
   <a href="https://github.com/403Code">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/403Code/termux-updater.svg"/>
   </a>
-  <a href="https://github.com/MieRebus47">
+  <a href="https://github.com/403Code">
     <img alt="Language" src="https://img.shields.io/github/languages/count/403Code/termux-updater.svg"/>
   </a>
-  <a href="https://github.com/MieRebus47">
+  <a href="https://github.com/403Code">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/403Code/termux-updater.svg"/>
   </a>
-  <a href="https://github.com/MieRebus47">
+  <a href="https://github.com/403Code">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/403Code/termux-updater.svg"/>
   </a>
-  <a href="https://github.com/MieRebus47">
+  <a href="https://github.com/403Code">
     <img alt="Stars" src="https://img.shields.io/github/stars/403Code/termux-updater.svg"/>
   </a>
-  <a href="https://github.com/MieRebus47">
+  <a href="https://github.com/403Code">
     <img alt="Forks" src="https://img.shields.io/github/forks/403Code/termux-updater.svg"/>
   </a>
-  <a href="https://github.com/MieRebus47">
+  <a href="https://github.com/403Code">
     <img alt="Python 3.10" src="https://img.shields.io/badge/Python-3-success.svg"/>
   </a>
 </div>
