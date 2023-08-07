@@ -18,7 +18,7 @@ program = "termux-updater"
 __doc__ = '''
 Usage:
   {0} [OPTIONS]
-  {0} [--help | -h | --v | --version]
+  {0} [--help | -h | -v | --version]
 
 Example:
   {0}    # update termux app if exists
